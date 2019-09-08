@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[装机DIY]]></title>
+    <url>%2F2019%2F09%2F08%2F%E8%A3%85%E6%9C%BADIY%2F</url>
+    <content type="text"><![CDATA[[TOC] 装机篇–CPU选型 关于CPU的讲解皆出自这篇知乎 CPU为电脑的大脑 厂家以及旗下系列两大厂家Intel和AMD Intel旗下系列 FX系列 速龙系列（Athlon） A系列 FX系列AMD的旗舰级多核心处理器系列，没有集成核心显卡，需要另外搭配独立显卡 速龙系列AMD的入门级多核心处理器，也没有集成核心显卡 A系列AMD最为骄傲的系列，原因是A系列CPU集成了核心显卡，我们往往称之为APU以示区别 AMD旗下系列 赛扬（Celeron） 奔腾（Pentium） 至强（Xeon） 酷睿（Core） 赛扬Intel最低端的处理器，如Celeron G1840。 奔腾总体比赛扬强，但比酷睿弱，如Pentium G4500。 至强不属于台式机处理器，而是服务器处理器，所以它是这里所介绍四个系列中唯一不配备核显的Intel处理器，按性能划分为E3、E5、E7，依次增强。 酷睿分为i3、i5、i7、i9四级别，性能依次增强。 酷睿CPU型号栗子：Core i7-4770K Core：酷睿系列处理器； i7：i7级别； 4：第四代处理器，即Haswell； 770：可简单理解为性能编号，在处理器代数相同的情况下，号码越大性能越强。 K：不锁倍频，即可以进行超频。如果没有“K”，表示不可以超频。 另外，笔记本CPU往往带有HQ、U、M、Y等编号： HQ：表示锁倍频的笔记本CPU，不可超频。 U：表示超低功耗版的笔记本CPU，目的是减少CPU耗电延长续航，当然，要在性能上打折扣。 Y：极低功耗版笔记本CPU，比U还省电。但已不生产，原因是工艺的改进使U系列的功耗已经足够低了。 M：指笔记本CPU。新的CPU已改为用“H”表示。 CPU性能架构可以简单理解为处理器的处理数据的方式，是不同处理器最根本的差别。大家都很熟悉的X86架构就是AMD和Intel的台式机处理器架构。x86架构下又细分为更多不同的架构，不同架构的产品形成不同的系列，以上所介绍的各种系列的CPU便是以架构不同来区分的。 制程是指CPU的制作工艺，也可以简单理解为制作精度，常见单位为纳米（nm）。精度的提高，对CPU的性能、功耗有着极为重大的影响。制程的提升可以大幅度提升性能，并降低功耗和发热。一般来说，用第X代处理器标志制程的进步。如Haswell系列为第四代22nm，Skylake是第六代14nm。 主频可简单理解为CPU的工作频率，常见单位为兆赫（MHz）、吉赫（GHz）。工作频率越高，固然性能越强，前提是架构和制程一样！这就是为什么AMD处理器主频接近5.0Ghz，性能却与主频在4.0GHz左右徘徊的Core i7系列相去甚远。 缓存电脑把要处理的数据临时存储在内存中，再发送给CPU处理，然后返回到内存中准备呈现给用户。但内存发送的速度比CPU处理的速度慢，导致CPU处理完一批数据后没事儿干了。缓存的发送速度比内存快得多，可以让CPU“忙碌”起来。内存先把数据发送给缓存，缓存再发送给CPU，这时内存继续发送数据给缓存；CPU的数据处理完了，紧接着从缓存中调取数据继续处理，从而实现连续处理数据。缓存和内存一样，固然是越大越好。 功耗又称TDP，耗电量。当然是越低越好啦！ 插槽插座有不同的形状，两个孔的、三个孔的。CPU也有不同的插槽。Intel的插槽一般叫LGA，如LGA1150和LGA1151;AMD的一般叫Socket，如Socket AM3+和Socket FM2。CPU的插槽与主板上CPU的插槽一一对应，如果没配对好，轻则无法安装，重则直接报废，要注意哦！ 核心显卡集成在CPU中的显卡，可用于处理图像信息。]]></content>
+      <tags>
+        <tag>装机</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F05%2F18%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
